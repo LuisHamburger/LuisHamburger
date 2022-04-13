@@ -8,7 +8,7 @@
 <div>
   <a href="https://github.com/LuisHamburger">
   <img height=180cm src="https://github-readme-stats.vercel.app/api?username=LuisHamburger&show_icons=true&theme=merko">
-  <img height=180cm src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHamburger&langs_count=8&theme=merko">
+  #<img height=180cm src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHamburger&langs_count=8&theme=merko">
  </div>
 
  ## Technologies 
