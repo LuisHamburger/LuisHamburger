@@ -5,21 +5,17 @@
 - 🔭 I’m currently working as a Full Stack Web Developer.
 - :muscle: Fun fact: I love working out, eating and dancing.
 
-<div>
-  <a href="https://github.com/LuisHamburger">
-  <img height=180cm src="https://github-readme-stats.vercel.app/api?username=LuisHamburger&show_icons=true&theme=merko">
- </div>
 
  ## Technologies 
   <div style="display: inline_block">
     <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
     <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
     <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-	<img align="center" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png">
-	<img align="center" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png">
-	<img align="center" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png">
-	<img align="center" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png">
-	<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+    <img align="center" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png">
+    <img align="center" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png">
+    <img align="center" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png">
+    <img align="center" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png">
+    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
     <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_wordmark_logo_icon_146557.png">
     <img align="center" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_aws_icon_130732.png">
