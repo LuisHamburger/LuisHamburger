@@ -5,6 +5,10 @@
 - 🔭 I’m currently working as a Full Stack Web Developer.
 - :muscle: Fun fact: I love working out, eating and dancing.
 
+ <div>
+   <a href="https://github.com/LuisHamburger">
+   <img height=180cm src="https://github-readme-stats.vercel.app/api?username=LuisHamburger&show_icons=true&theme=merko">
+ </div>
 
  ## Technologies 
   <div style="display: inline_block">
