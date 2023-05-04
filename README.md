@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Luis Hamburger
 
-## I'm a Industrial Engineer Student and Software Developer
+## I'm a Software Developer
 
 - 🔭 I’m currently working as a Full Stack Web Developer.
 - :muscle: Fun fact: I love working out, eating and dancing.
